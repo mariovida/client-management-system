@@ -1,7 +1,8 @@
 <h1 align="center">Management System</h1>
 <h3 align="center">Client management system made in C programming language</h3>
 
-![image](show.gif)
+![image](img/img1.jpg)
+![image](img/img2.jpg)
 
 <h3 align="center">✔️ Finished</h3>
 
