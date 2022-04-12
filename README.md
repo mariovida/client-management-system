@@ -2,7 +2,7 @@
 <h3 align="center">Client management system made in C programming language</h3>
 
 ![image](img/img1.jpg)
-![image](img/img2.jpg)
+![image](img/img3.jpg)
 
 <h3 align="center">✔️ Finished</h3>
 
